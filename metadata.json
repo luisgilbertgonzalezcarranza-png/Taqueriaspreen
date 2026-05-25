@@ -1,0 +1,6 @@
+{
+  "name": "Taquería Spreen",
+  "description": "Aplicación interactiva para clientes, empleados y administradores de la Taquería Spreen con gestión de inventario, aprobación de accesos y órdenes en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
